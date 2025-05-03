@@ -7,7 +7,7 @@
 > A lightweight Python tool for WHOIS and DNS reconnaissance with a stylish CLI banner.  
 > Ideal for students, ethical hackers, and anyone curious about domain registration & DNS data.
 
-![whoLook_me Terminal Demo](/asset/demo.png)
+![whoLook_me Terminal Demo](/asset/image.png)
 
 ---
 
